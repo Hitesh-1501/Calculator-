@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Calculator" parent="Base.Theme.Calculator" />
+
+    <!--Light Mode -->
+
+    <!--  Text backgrounnd if light mode on  -->
+
+    <style name="TEXT">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!--Btnlayout background if light mode on-->
+
+    <style name="BTNLAYOUTBG">
+        <item name="android:background">@color/bgcolor</item>
+
+    </style>
+
+    <!--background color btn if light mode on    -->
+
+    <style name="BTNBG">
+
+        <item name="android:backgroundTint">@color/white</item>
+
+    </style>
+
+    <!-- Btn text color and background if light mode on   -->
+
+    <style name="BTNTEXTBG">
+
+        <item name="android:textColor">@color/black</item>
+        <item name="android:backgroundTint">@color/white</item>
+
+    </style>
+
+
+</resources>

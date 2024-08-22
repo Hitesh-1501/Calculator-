@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+    <!--  Text backgrounnd if night mode on  -->
+
+    <style name="TEXT">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <!--Btnlayout background if night mode on-->
+
+    <style name="BTNLAYOUTBG">
+        <item name="android:background">@color/black</item>
+
+    </style>
+
+    <!--background color btn if night mode on    -->
+
+    <style name="BTNBG">
+
+        <item name="android:backgroundTint">@color/lightblack</item>
+
+    </style>
+
+
+    <!-- Btn text color and background if night mode on   -->
+
+    <style name="BTNTEXTBG">
+
+        <item name="android:textColor">@color/white</item>
+        <item name="android:backgroundTint">@color/lightblack</item>
+
+    </style>
+
+
+</resources>
