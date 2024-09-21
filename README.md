@@ -1,7 +1,7 @@
-#CALCULATOR App
+# CALCULATOR App
 
-##OUTPUT
-###if dark mode on
+## OUTPUT
+### if dark mode on
 ![Screenshot_2024-09-21-16-10-21-199_com example calculator 1](https://github.com/user-attachments/assets/bf238714-57e8-4b44-aab4-9b6d52f67950)
 
 ### if light mode on
